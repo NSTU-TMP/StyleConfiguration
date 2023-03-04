@@ -1,0 +1,1 @@
+﻿using ReactiveUI;namespace StyleConfiguration.ViewModels{    public class ViewModelBase : ReactiveObject    {    }}

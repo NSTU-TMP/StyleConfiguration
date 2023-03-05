@@ -1,1 +1,1 @@
-namespace StyleConfiguration.Config;public class ConfigReader{    public ConfigReader()    {            }    }
+namespace StyleConfiguration.Config;public class ConfigReader{    }

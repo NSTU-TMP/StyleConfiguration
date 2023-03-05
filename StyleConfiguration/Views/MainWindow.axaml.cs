@@ -1,1 +1,1 @@
-using Avalonia.Controls;namespace StyleConfiguration.Views{    public partial class MainWindow : Window    {        public MainWindow()        {            InitializeComponent();        }    }}
+using Avalonia.Controls;using Avalonia.ReactiveUI;using StyleConfiguration.ViewModels;namespace StyleConfiguration.Views{    public partial class MainWindow : ReactiveWindow<MainWindowViewModel>    {        public MainWindow()        {            InitializeComponent();        }    }}

@@ -1,1 +1,1 @@
-namespace StyleConfiguration.ViewModels;public class WorkPlaceViewModel{    }
+using ReactiveUI;namespace StyleConfiguration.ViewModels;public class WorkPlaceViewModel : ReactiveObject, IRoutableViewModel, IScreen{    public WorkPlaceViewModel()    {            }        public string? UrlPathSegment { get; }    public IScreen HostScreen { get; }    public RoutingState Router { get; } = new();}

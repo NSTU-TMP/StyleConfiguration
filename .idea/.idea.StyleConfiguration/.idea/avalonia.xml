@@ -5,6 +5,7 @@
       <map>
         <entry key="StyleConfiguration/Views/MainWindow.axaml" value="StyleConfiguration/StyleConfiguration.csproj" />
         <entry key="StyleConfiguration/Views/StylingMenu.axaml" value="StyleConfiguration/StyleConfiguration.csproj" />
+        <entry key="StyleConfiguration/Views/WorkPlaceView.axaml" value="StyleConfiguration/StyleConfiguration.csproj" />
       </map>
     </option>
   </component>

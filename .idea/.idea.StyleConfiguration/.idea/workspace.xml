@@ -5,8 +5,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2b6297e7-2d72-48e4-9dc2-4b8586226e9e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/StyleConfiguration/Config/ConfigReader.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.StyleConfiguration/.idea/avalonia.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.StyleConfiguration/.idea/avalonia.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.StyleConfiguration/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.StyleConfiguration/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StyleConfiguration/AppViewLocator.cs" beforeDir="false" afterPath="$PROJECT_DIR$/StyleConfiguration/AppViewLocator.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StyleConfiguration/ViewModels/MainWindowViewModel.cs" beforeDir="false" afterPath="$PROJECT_DIR$/StyleConfiguration/ViewModels/MainWindowViewModel.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StyleConfiguration/ViewModels/WorkPlaceViewModel.cs" beforeDir="false" afterPath="$PROJECT_DIR$/StyleConfiguration/ViewModels/WorkPlaceViewModel.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StyleConfiguration/Views/MainWindow.axaml" beforeDir="false" afterPath="$PROJECT_DIR$/StyleConfiguration/Views/MainWindow.axaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StyleConfiguration/Views/MainWindow.axaml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/StyleConfiguration/Views/MainWindow.axaml.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StyleConfiguration/Views/WorkPlaceView.axaml" beforeDir="false" afterPath="$PROJECT_DIR$/StyleConfiguration/Views/WorkPlaceView.axaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StyleConfiguration/bin/Debug/net6.0/StyleConfiguration.dll" beforeDir="false" afterPath="$PROJECT_DIR$/StyleConfiguration/bin/Debug/net6.0/StyleConfiguration.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StyleConfiguration/bin/Debug/net6.0/StyleConfiguration.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/StyleConfiguration/bin/Debug/net6.0/StyleConfiguration.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StyleConfiguration/obj/Debug/net6.0/Avalonia/original.dll" beforeDir="false" afterPath="$PROJECT_DIR$/StyleConfiguration/obj/Debug/net6.0/Avalonia/original.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StyleConfiguration/obj/Debug/net6.0/Avalonia/original.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/StyleConfiguration/obj/Debug/net6.0/Avalonia/original.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StyleConfiguration/obj/Debug/net6.0/Avalonia/resources" beforeDir="false" afterPath="$PROJECT_DIR$/StyleConfiguration/obj/Debug/net6.0/Avalonia/resources" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StyleConfiguration/obj/Debug/net6.0/StyleConfiguration.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/StyleConfiguration/obj/Debug/net6.0/StyleConfiguration.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StyleConfiguration/obj/Debug/net6.0/StyleConfiguration.dll" beforeDir="false" afterPath="$PROJECT_DIR$/StyleConfiguration/obj/Debug/net6.0/StyleConfiguration.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StyleConfiguration/obj/Debug/net6.0/StyleConfiguration.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/StyleConfiguration/obj/Debug/net6.0/StyleConfiguration.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StyleConfiguration/obj/Debug/net6.0/ref/StyleConfiguration.dll" beforeDir="false" afterPath="$PROJECT_DIR$/StyleConfiguration/obj/Debug/net6.0/ref/StyleConfiguration.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StyleConfiguration/obj/Debug/net6.0/refint/StyleConfiguration.dll" beforeDir="false" afterPath="$PROJECT_DIR$/StyleConfiguration/obj/Debug/net6.0/refint/StyleConfiguration.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StyleConfiguration/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/StyleConfiguration/obj/rider.project.restore.info" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

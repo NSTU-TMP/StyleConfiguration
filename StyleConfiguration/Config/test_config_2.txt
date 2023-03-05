@@ -1,1 +1,1 @@
-0 good 01 yes 01 very 01 goog 00 hmm 01 ur 01 right 0
+0 good 01 yes 11 very 01 goog 20 hmm 11 ur 01 right 1

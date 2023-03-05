@@ -4,6 +4,7 @@
     <option name="projectPerEditor">
       <map>
         <entry key="StyleConfiguration/Views/MainWindow.axaml" value="StyleConfiguration/StyleConfiguration.csproj" />
+        <entry key="StyleConfiguration/Views/StylingMenu.axaml" value="StyleConfiguration/StyleConfiguration.csproj" />
       </map>
     </option>
   </component>

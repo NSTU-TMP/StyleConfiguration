@@ -1,0 +1,1 @@
+using Avalonia;using Avalonia.Controls;using Avalonia.Markup.Xaml;namespace StyleConfiguration.Views;public partial class StylingMenu : UserControl{    public StylingMenu()    {        InitializeComponent();    }    private void InitializeComponent()    {        AvaloniaXamlLoader.Load(this);    }}

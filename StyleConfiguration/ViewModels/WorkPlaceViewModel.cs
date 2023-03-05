@@ -1,0 +1,1 @@
+namespace StyleConfiguration.ViewModels;public class WorkPlaceViewModel{    }

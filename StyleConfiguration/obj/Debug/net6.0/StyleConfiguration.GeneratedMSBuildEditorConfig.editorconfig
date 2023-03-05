@@ -19,3 +19,6 @@ build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
 
 [/home/darling/RiderProjects/StyleConfiguration/StyleConfiguration/Views/MainWindow.axaml]
 build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[/home/darling/RiderProjects/StyleConfiguration/StyleConfiguration/Views/WorkPlaceView.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml

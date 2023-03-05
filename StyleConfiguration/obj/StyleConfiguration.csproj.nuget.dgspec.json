@@ -58,6 +58,10 @@
               "target": "Package",
               "version": "[11.0.0-preview5, )"
             },
+            "MessageBox.Avalonia": {
+              "target": "Package",
+              "version": "[2.3.1-prev5, )"
+            },
             "ReactiveUI.Fody": {
               "target": "Package",
               "version": "[18.4.25, )"

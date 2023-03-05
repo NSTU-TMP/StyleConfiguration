@@ -134,3 +134,8 @@
 /home/darling/RiderProjects/StyleConfiguration/StyleConfiguration/obj/Debug/net6.0/Avalonia/original.dll
 /home/darling/RiderProjects/StyleConfiguration/StyleConfiguration/obj/Debug/net6.0/Avalonia/original.pdb
 /home/darling/RiderProjects/StyleConfiguration/StyleConfiguration/obj/Debug/net6.0/Avalonia/original.ref.dll
+/home/darling/RiderProjects/StyleConfiguration/StyleConfiguration/bin/Debug/net6.0/AvaloniaEdit.dll
+/home/darling/RiderProjects/StyleConfiguration/StyleConfiguration/bin/Debug/net6.0/ColorTextBlock.Avalonia.dll
+/home/darling/RiderProjects/StyleConfiguration/StyleConfiguration/bin/Debug/net6.0/Markdown.Avalonia.SyntaxHigh.dll
+/home/darling/RiderProjects/StyleConfiguration/StyleConfiguration/bin/Debug/net6.0/Markdown.Avalonia.dll
+/home/darling/RiderProjects/StyleConfiguration/StyleConfiguration/bin/Debug/net6.0/MessageBox.Avalonia.dll

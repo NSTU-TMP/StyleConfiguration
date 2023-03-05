@@ -13,6 +13,7 @@
           "Avalonia.Diagnostics": "11.0.0-preview5",
           "Avalonia.ReactiveUI": "11.0.0-preview5",
           "Avalonia.Themes.Fluent": "11.0.0-preview5",
+          "MessageBox.Avalonia": "2.3.1-prev5",
           "ReactiveUI.Fody": "18.4.25",
           "XamlNameReferenceGenerator": "1.6.1"
         },
@@ -81,6 +82,18 @@
             "rid": "win7-x86",
             "assetType": "native",
             "fileVersion": "0.0.0.0"
+          }
+        }
+      },
+      "Avalonia.AvaloniaEdit/11.0.0-preview5": {
+        "dependencies": {
+          "Avalonia": "11.0.0-preview5",
+          "System.Collections.Immutable": "5.0.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/AvaloniaEdit.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
           }
         }
       },
@@ -256,6 +269,17 @@
           }
         }
       },
+      "ColorTextBlock.Avalonia/11.0.0-a9": {
+        "dependencies": {
+          "Avalonia": "11.0.0-preview5"
+        },
+        "runtime": {
+          "lib/net6.0/ColorTextBlock.Avalonia.dll": {
+            "assemblyVersion": "11.0.0.0",
+            "fileVersion": "11.0.0.0"
+          }
+        }
+      },
       "DynamicData/7.13.1": {
         "dependencies": {
           "System.Reactive": "5.0.0"
@@ -333,6 +357,48 @@
             "rid": "win-x86",
             "assetType": "native",
             "fileVersion": "0.0.0.0"
+          }
+        }
+      },
+      "Markdown.Avalonia/11.0.0-a9": {
+        "dependencies": {
+          "Markdown.Avalonia.SyntaxHigh": "11.0.0-a9",
+          "Markdown.Avalonia.Tight": "11.0.0-a9"
+        }
+      },
+      "Markdown.Avalonia.SyntaxHigh/11.0.0-a9": {
+        "dependencies": {
+          "Avalonia": "11.0.0-preview5",
+          "Avalonia.AvaloniaEdit": "11.0.0-preview5"
+        },
+        "runtime": {
+          "lib/net6.0/Markdown.Avalonia.SyntaxHigh.dll": {
+            "assemblyVersion": "11.0.0.0",
+            "fileVersion": "11.0.0.0"
+          }
+        }
+      },
+      "Markdown.Avalonia.Tight/11.0.0-a9": {
+        "dependencies": {
+          "Avalonia": "11.0.0-preview5",
+          "ColorTextBlock.Avalonia": "11.0.0-a9"
+        },
+        "runtime": {
+          "lib/net6.0/Markdown.Avalonia.dll": {
+            "assemblyVersion": "11.0.0.0",
+            "fileVersion": "11.0.0.0"
+          }
+        }
+      },
+      "MessageBox.Avalonia/2.3.1-prev5": {
+        "dependencies": {
+          "Avalonia": "11.0.0-preview5",
+          "Markdown.Avalonia": "11.0.0-a9"
+        },
+        "runtime": {
+          "lib/netstandard2.0/MessageBox.Avalonia.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
           }
         }
       },
@@ -974,6 +1040,13 @@
       "path": "avalonia.angle.windows.natives/2.1.0.2020091801",
       "hashPath": "avalonia.angle.windows.natives.2.1.0.2020091801.nupkg.sha512"
     },
+    "Avalonia.AvaloniaEdit/11.0.0-preview5": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-7Z72IknId3ObqXBtUwsmxLPYiTX/5EDW6SYQhdGeG0L0pGjv9hxJsl23aAEtH5ZCsnTJaA9VQk4bt+a2xTdr5g==",
+      "path": "avalonia.avaloniaedit/11.0.0-preview5",
+      "hashPath": "avalonia.avaloniaedit.11.0.0-preview5.nupkg.sha512"
+    },
     "Avalonia.Controls.ColorPicker/11.0.0-preview5": {
       "type": "package",
       "serviceable": true,
@@ -1065,6 +1138,13 @@
       "path": "avalonia.x11/11.0.0-preview5",
       "hashPath": "avalonia.x11.11.0.0-preview5.nupkg.sha512"
     },
+    "ColorTextBlock.Avalonia/11.0.0-a9": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-FwnTzd3hJkYztVouVG7iz9Tt6abWrAUJMaRE7HrZiLNSylAlFNgM4nehucfHo6AK28KSQZvwlphTxS6lOX5P0A==",
+      "path": "colortextblock.avalonia/11.0.0-a9",
+      "hashPath": "colortextblock.avalonia.11.0.0-a9.nupkg.sha512"
+    },
     "DynamicData/7.13.1": {
       "type": "package",
       "serviceable": true,
@@ -1113,6 +1193,34 @@
       "sha512": "sha512-0ws24k21iRH2GRiOLEcG6ESl+VROOwaeHnC0vqKQChGmreGTJ//JBQJqIu189oY30G0NVdypDe1UwFA/scjBAw==",
       "path": "harfbuzzsharp.nativeassets.win32/2.8.2.1-preview.108",
       "hashPath": "harfbuzzsharp.nativeassets.win32.2.8.2.1-preview.108.nupkg.sha512"
+    },
+    "Markdown.Avalonia/11.0.0-a9": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Y/YmCwE4tqojd0CzVnr3YKIJiaawZ1tLlB7wZP9OGJLbbpZccalFDRrb015qTRS+VjR4WBfFP7iiNsi4mwO/LQ==",
+      "path": "markdown.avalonia/11.0.0-a9",
+      "hashPath": "markdown.avalonia.11.0.0-a9.nupkg.sha512"
+    },
+    "Markdown.Avalonia.SyntaxHigh/11.0.0-a9": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-r8goGn6ByBS+KnHPe9U3PZ0nqj4UddsWBJXvlgrYT54TRJUOxCoJ02FKyMLXLHF/+yL+/rsGLQl/0EPtH+U7Sg==",
+      "path": "markdown.avalonia.syntaxhigh/11.0.0-a9",
+      "hashPath": "markdown.avalonia.syntaxhigh.11.0.0-a9.nupkg.sha512"
+    },
+    "Markdown.Avalonia.Tight/11.0.0-a9": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-+/H+b0delokDxpTDwNjmnChziRI3JQHPPqLcfmZjltsZWqnDRJmWNkzPedxPa2/Eri5ayp0GPMkNjH9otACn2Q==",
+      "path": "markdown.avalonia.tight/11.0.0-a9",
+      "hashPath": "markdown.avalonia.tight.11.0.0-a9.nupkg.sha512"
+    },
+    "MessageBox.Avalonia/2.3.1-prev5": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-usB9uzvC9oQfKpYQndDoZsUyMifCSC9wgu1IQKjLVBRIzKWky1c7iIKjkvcjBqh9t+qSFMyQK5a6dR3UQqhgoQ==",
+      "path": "messagebox.avalonia/2.3.1-prev5",
+      "hashPath": "messagebox.avalonia.2.3.1-prev5.nupkg.sha512"
     },
     "MicroCom.Runtime/0.11.0": {
       "type": "package",

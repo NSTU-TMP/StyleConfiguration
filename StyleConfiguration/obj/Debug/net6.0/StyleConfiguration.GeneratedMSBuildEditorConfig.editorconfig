@@ -9,16 +9,15 @@ build_property.UsingMicrosoftNETSdkWeb =
 build_property.ProjectTypeGuids = 
 build_property.InvariantGlobalization = 
 build_property.PlatformNeutralAssembly = 
-build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = StyleConfiguration
-build_property.ProjectDir = /home/darling/RiderProjects/StyleConfiguration/StyleConfiguration/
+build_property.ProjectDir = /home/xpomin/Prog/StyleConfiguration/StyleConfiguration/
 
-[/home/darling/RiderProjects/StyleConfiguration/StyleConfiguration/App.axaml]
+[/home/xpomin/Prog/StyleConfiguration/StyleConfiguration/App.axaml]
 build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
 
-[/home/darling/RiderProjects/StyleConfiguration/StyleConfiguration/Views/MainWindow.axaml]
+[/home/xpomin/Prog/StyleConfiguration/StyleConfiguration/Views/MainWindow.axaml]
 build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
 
-[/home/darling/RiderProjects/StyleConfiguration/StyleConfiguration/Views/WorkPlaceView.axaml]
+[/home/xpomin/Prog/StyleConfiguration/StyleConfiguration/Views/WorkPlaceView.axaml]
 build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml

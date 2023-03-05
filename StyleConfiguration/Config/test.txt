@@ -1,1 +1,1 @@
-Darling 1234 /home/darling/RiderProjects/StyleConfiguration/StyleConfiguration/Config/test_config.txtDarling 12345 /home/darling/RiderProjects/StyleConfiguration/StyleConfiguration/Config/test_config.txt123 123 123    
+Darling 1234 /home/darling/RiderProjects/StyleConfiguration/StyleConfiguration/Config/test_config.txtDanilka 4321 /home/darling/RiderProjects/StyleConfiguration/StyleConfiguration/Config/test_config_2.txt

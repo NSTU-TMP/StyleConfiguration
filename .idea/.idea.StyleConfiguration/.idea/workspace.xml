@@ -6,40 +6,17 @@
   <component name="ChangeListManager">
     <list default="true" id="2b6297e7-2d72-48e4-9dc2-4b8586226e9e" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.StyleConfiguration/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.StyleConfiguration/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StyleConfiguration/App.axaml" beforeDir="false" afterPath="$PROJECT_DIR$/StyleConfiguration/App.axaml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/StyleConfiguration/Config/ConfigReader.cs" beforeDir="false" afterPath="$PROJECT_DIR$/StyleConfiguration/Config/ConfigReader.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/StyleConfiguration/Config/UserChecker.cs" beforeDir="false" afterPath="$PROJECT_DIR$/StyleConfiguration/Config/UserChecker.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/StyleConfiguration/Config/test_config.txt" beforeDir="false" afterPath="$PROJECT_DIR$/StyleConfiguration/Config/test_config.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/StyleConfiguration/Config/test_config_2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/StyleConfiguration/ViewModels/test_config_2.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/StyleConfiguration/Config/test_config_3.txt" beforeDir="false" afterPath="$PROJECT_DIR$/StyleConfiguration/ViewModels/test_config_3.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/StyleConfiguration/Config/userTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/StyleConfiguration/Config/userTest.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/StyleConfiguration/StyleConfiguration.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/StyleConfiguration/StyleConfiguration.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/StyleConfiguration/ViewModels/MainWindowViewModel.cs" beforeDir="false" afterPath="$PROJECT_DIR$/StyleConfiguration/ViewModels/MainWindowViewModel.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/StyleConfiguration/bin/Debug/net6.0/StyleConfiguration" beforeDir="false" afterPath="$PROJECT_DIR$/StyleConfiguration/bin/Debug/net6.0/StyleConfiguration" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/StyleConfiguration/bin/Debug/net6.0/StyleConfiguration.dll" beforeDir="false" afterPath="$PROJECT_DIR$/StyleConfiguration/bin/Debug/net6.0/StyleConfiguration.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/StyleConfiguration/bin/Debug/net6.0/StyleConfiguration.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/StyleConfiguration/bin/Debug/net6.0/StyleConfiguration.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/StyleConfiguration/obj/Debug/net6.0/Avalonia/Resources.Inputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/StyleConfiguration/obj/Debug/net6.0/Avalonia/Resources.Inputs.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/StyleConfiguration/obj/Debug/net6.0/Avalonia/original.dll" beforeDir="false" afterPath="$PROJECT_DIR$/StyleConfiguration/obj/Debug/net6.0/Avalonia/original.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/StyleConfiguration/obj/Debug/net6.0/Avalonia/original.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/StyleConfiguration/obj/Debug/net6.0/Avalonia/original.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/StyleConfiguration/obj/Debug/net6.0/Avalonia/original.ref.dll" beforeDir="false" afterPath="$PROJECT_DIR$/StyleConfiguration/obj/Debug/net6.0/Avalonia/original.ref.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/StyleConfiguration/obj/Debug/net6.0/Avalonia/references" beforeDir="false" afterPath="$PROJECT_DIR$/StyleConfiguration/obj/Debug/net6.0/Avalonia/references" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/StyleConfiguration/obj/Debug/net6.0/StyleConfiguration.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/StyleConfiguration/obj/Debug/net6.0/StyleConfiguration.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/StyleConfiguration/obj/Debug/net6.0/StyleConfiguration.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/StyleConfiguration/obj/Debug/net6.0/StyleConfiguration.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/StyleConfiguration/obj/Debug/net6.0/StyleConfiguration.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/StyleConfiguration/obj/Debug/net6.0/StyleConfiguration.csproj.AssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/StyleConfiguration/obj/Debug/net6.0/StyleConfiguration.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/StyleConfiguration/obj/Debug/net6.0/StyleConfiguration.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/StyleConfiguration/obj/Debug/net6.0/StyleConfiguration.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/StyleConfiguration/obj/Debug/net6.0/StyleConfiguration.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/StyleConfiguration/obj/Debug/net6.0/StyleConfiguration.csproj.Fody.CopyLocal.cache" beforeDir="false" afterPath="$PROJECT_DIR$/StyleConfiguration/obj/Debug/net6.0/StyleConfiguration.csproj.Fody.CopyLocal.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/StyleConfiguration/obj/Debug/net6.0/StyleConfiguration.csproj.Fody.RuntimeCopyLocal.cache" beforeDir="false" afterPath="$PROJECT_DIR$/StyleConfiguration/obj/Debug/net6.0/StyleConfiguration.csproj.Fody.RuntimeCopyLocal.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StyleConfiguration/obj/Debug/net6.0/Avalonia/resources" beforeDir="false" afterPath="$PROJECT_DIR$/StyleConfiguration/obj/Debug/net6.0/Avalonia/resources" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/StyleConfiguration/obj/Debug/net6.0/StyleConfiguration.dll" beforeDir="false" afterPath="$PROJECT_DIR$/StyleConfiguration/obj/Debug/net6.0/StyleConfiguration.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/StyleConfiguration/obj/Debug/net6.0/StyleConfiguration.genruntimeconfig.cache" beforeDir="false" afterPath="$PROJECT_DIR$/StyleConfiguration/obj/Debug/net6.0/StyleConfiguration.genruntimeconfig.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/StyleConfiguration/obj/Debug/net6.0/StyleConfiguration.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/StyleConfiguration/obj/Debug/net6.0/StyleConfiguration.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/StyleConfiguration/obj/Debug/net6.0/apphost" beforeDir="false" afterPath="$PROJECT_DIR$/StyleConfiguration/obj/Debug/net6.0/apphost" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/StyleConfiguration/obj/Debug/net6.0/ref/StyleConfiguration.dll" beforeDir="false" afterPath="$PROJECT_DIR$/StyleConfiguration/obj/Debug/net6.0/ref/StyleConfiguration.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/StyleConfiguration/obj/StyleConfiguration.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/StyleConfiguration/obj/StyleConfiguration.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/StyleConfiguration/obj/StyleConfiguration.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/StyleConfiguration/obj/StyleConfiguration.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/StyleConfiguration/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/StyleConfiguration/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/StyleConfiguration/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/StyleConfiguration/obj/project.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/StyleConfiguration/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/StyleConfiguration/obj/project.packagespec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/StyleConfiguration/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/StyleConfiguration/obj/rider.project.restore.info" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,12 +32,28 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProjectId" id="2MdSYHdbA2qZItfRjiZlLleeAoL" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "rider.external.source.directories": [
+      "/home/xpomin/.config/JetBrains/Rider2022.3/resharper-host/DecompilerCache",
+      "/home/xpomin/.config/JetBrains/Rider2022.3/resharper-host/SourcesCache",
+      "/home/xpomin/.local/share/Symbols/src"
+    ]
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="StyleConfiguration" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
@@ -81,8 +74,20 @@
       </method>
     </configuration>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2b6297e7-2d72-48e4-9dc2-4b8586226e9e" name="Changes" comment="" />
+      <created>1678096014372</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1678096014372</updated>
+      <workItem from="1678096016824" duration="1232000" />
+    </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="UnityUnitTestConfiguration" currentTestLauncher="Both" />
   <component name="Vcs.Log.Tabs.Properties">
@@ -114,13 +119,13 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="DotNet Breakpoints">
           <url>file://$PROJECT_DIR$/StyleConfiguration/Config/ConfigReader.cs</url>
-          <line>104</line>
+          <line>105</line>
           <properties documentPath="$PROJECT_DIR$/StyleConfiguration/Config/ConfigReader.cs" initialLine="105" containingFunctionPresentation="method 'Parsing'">
             <startOffsets>
-              <option value="2772" />
+              <option value="2862" />
             </startOffsets>
             <endOffsets>
-              <option value="2831" />
+              <option value="2921" />
             </endOffsets>
           </properties>
           <option name="timeStamp" value="5" />

@@ -6,15 +6,12 @@
   <component name="ChangeListManager">
     <list default="true" id="2b6297e7-2d72-48e4-9dc2-4b8586226e9e" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.StyleConfiguration/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.StyleConfiguration/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/StyleConfiguration/App.axaml" beforeDir="false" afterPath="$PROJECT_DIR$/StyleConfiguration/App.axaml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/StyleConfiguration/Config/ConfigReader.cs" beforeDir="false" afterPath="$PROJECT_DIR$/StyleConfiguration/Config/ConfigReader.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/StyleConfiguration/Config/test_config.txt" beforeDir="false" afterPath="$PROJECT_DIR$/StyleConfiguration/Config/test_config.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/StyleConfiguration/bin/Debug/net6.0/StyleConfiguration.dll" beforeDir="false" afterPath="$PROJECT_DIR$/StyleConfiguration/bin/Debug/net6.0/StyleConfiguration.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/StyleConfiguration/bin/Debug/net6.0/StyleConfiguration.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/StyleConfiguration/bin/Debug/net6.0/StyleConfiguration.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/StyleConfiguration/obj/Debug/net6.0/Avalonia/original.dll" beforeDir="false" afterPath="$PROJECT_DIR$/StyleConfiguration/obj/Debug/net6.0/Avalonia/original.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/StyleConfiguration/obj/Debug/net6.0/Avalonia/original.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/StyleConfiguration/obj/Debug/net6.0/Avalonia/original.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/StyleConfiguration/obj/Debug/net6.0/Avalonia/original.ref.dll" beforeDir="false" afterPath="$PROJECT_DIR$/StyleConfiguration/obj/Debug/net6.0/Avalonia/original.ref.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/StyleConfiguration/obj/Debug/net6.0/Avalonia/resources" beforeDir="false" afterPath="$PROJECT_DIR$/StyleConfiguration/obj/Debug/net6.0/Avalonia/resources" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/StyleConfiguration/obj/Debug/net6.0/StyleConfiguration.dll" beforeDir="false" afterPath="$PROJECT_DIR$/StyleConfiguration/obj/Debug/net6.0/StyleConfiguration.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/StyleConfiguration/obj/Debug/net6.0/StyleConfiguration.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/StyleConfiguration/obj/Debug/net6.0/StyleConfiguration.pdb" afterDir="false" />
     </list>
@@ -43,6 +40,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+    "nodejs_package_manager_path": "npm",
     "settings.editor.selected.configurable": "preferences.pluginManager",
     "vue.rearranger.settings.migration": "true"
   },
@@ -82,7 +80,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1678096014372</updated>
-      <workItem from="1678096016824" duration="1232000" />
+      <workItem from="1678096016824" duration="3255000" />
     </task>
     <servers />
   </component>
@@ -119,26 +117,26 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="DotNet Breakpoints">
           <url>file://$PROJECT_DIR$/StyleConfiguration/Config/ConfigReader.cs</url>
-          <line>105</line>
+          <line>134</line>
           <properties documentPath="$PROJECT_DIR$/StyleConfiguration/Config/ConfigReader.cs" initialLine="105" containingFunctionPresentation="method 'Parsing'">
             <startOffsets>
-              <option value="2862" />
+              <option value="3906" />
             </startOffsets>
             <endOffsets>
-              <option value="2921" />
+              <option value="3965" />
             </endOffsets>
           </properties>
           <option name="timeStamp" value="5" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="DotNet Breakpoints">
           <url>file://$PROJECT_DIR$/StyleConfiguration/Config/ConfigReader.cs</url>
-          <line>58</line>
+          <line>65</line>
           <properties documentPath="$PROJECT_DIR$/StyleConfiguration/Config/ConfigReader.cs" initialLine="58" containingFunctionPresentation="method 'Parsing'">
             <startOffsets>
-              <option value="1145" />
+              <option value="1326" />
             </startOffsets>
             <endOffsets>
-              <option value="1161" />
+              <option value="1342" />
             </endOffsets>
           </properties>
           <option name="timeStamp" value="7" />

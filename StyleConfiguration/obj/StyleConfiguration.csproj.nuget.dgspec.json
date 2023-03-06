@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/xpomin/Prog/StyleConfiguration/StyleConfiguration/StyleConfiguration.csproj": {}
+    "/home/xpomin/Prog/tmp/StyleConfiguration/StyleConfiguration/StyleConfiguration.csproj": {}
   },
   "projects": {
-    "/home/xpomin/Prog/StyleConfiguration/StyleConfiguration/StyleConfiguration.csproj": {
+    "/home/xpomin/Prog/tmp/StyleConfiguration/StyleConfiguration/StyleConfiguration.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/xpomin/Prog/StyleConfiguration/StyleConfiguration/StyleConfiguration.csproj",
+        "projectUniqueName": "/home/xpomin/Prog/tmp/StyleConfiguration/StyleConfiguration/StyleConfiguration.csproj",
         "projectName": "StyleConfiguration",
-        "projectPath": "/home/xpomin/Prog/StyleConfiguration/StyleConfiguration/StyleConfiguration.csproj",
+        "projectPath": "/home/xpomin/Prog/tmp/StyleConfiguration/StyleConfiguration/StyleConfiguration.csproj",
         "packagesPath": "/home/xpomin/.nuget/packages/",
-        "outputPath": "/home/xpomin/Prog/StyleConfiguration/StyleConfiguration/obj/",
+        "outputPath": "/home/xpomin/Prog/tmp/StyleConfiguration/StyleConfiguration/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/xpomin/.nuget/NuGet/NuGet.Config"

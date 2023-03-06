@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JILJnwqwpIm5VPVtBVRnrlwgLEdpEbbasKKHx4tv1NCNvFF01rh8uobFxxPy1+W2kmnZBLkBcEt2dvlQNUyHTw==",
+  "dgSpecHash": "eJLQIdWKae5Qr0n5yfSsGiOaF/2DyZRi6nxV0D+tSQxnWsOzzbJgwdhNzznIb5rTbwt2UdbKXrCCjUxPr/QPHA==",
   "success": true,
-  "projectFilePath": "/home/xpomin/Prog/StyleConfiguration/StyleConfiguration/StyleConfiguration.csproj",
+  "projectFilePath": "/home/xpomin/Prog/tmp/StyleConfiguration/StyleConfiguration/StyleConfiguration.csproj",
   "expectedPackageFiles": [
     "/home/xpomin/.nuget/packages/avalonia/11.0.0-preview5/avalonia.11.0.0-preview5.nupkg.sha512",
     "/home/xpomin/.nuget/packages/avalonia.angle.windows.natives/2.1.0.2020091801/avalonia.angle.windows.natives.2.1.0.2020091801.nupkg.sha512",

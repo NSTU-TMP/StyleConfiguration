@@ -1,0 +1,1 @@
+using Avalonia.Markup.Xaml;using Avalonia.ReactiveUI;using Presentation.ViewModels;namespace Presentation.Views;public partial class WorkPlaceView : ReactiveUserControl<WorkPlaceViewModel>{    public WorkPlaceView()    {        InitializeComponent();    }    private void InitializeComponent()    {        AvaloniaXamlLoader.Load(this);    }}

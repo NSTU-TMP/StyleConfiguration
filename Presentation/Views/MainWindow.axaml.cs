@@ -1,0 +1,1 @@
+using Avalonia.ReactiveUI;using Presentation.ViewModels;namespace Presentation.Views{    public partial class MainWindow : ReactiveWindow<MainWindowViewModel>    {        public MainWindow()        {            InitializeComponent();        }    }}
